@@ -3,7 +3,7 @@
 
 ## **Cyclystic Case Study**
 
-![Cyclistic Logo](cyclistic_logo.jpg)
+![Cyclistic Logo](cyclistic_logo.png)
 
 This analysis is an optional Capstone project from the [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics) on Coursera.
 
