@@ -3,7 +3,7 @@
 
 ## **Cyclystic Case Study**
 
-![Cyclystic Logo](https://www.dropbox.com/s/s2f1pq5jwrprlqw/cyclistic-logo.png)
+![Cyclistic Logo](images/cyclistic_logo.jpg)
 
 This analysis is an optional Capstone project from the [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics) on Coursera.
 
@@ -28,7 +28,6 @@ This analysis is an optional Capstone project from the [Google Data Analytics Pr
 1. #### How can Cyclistic use digital media to influence casual riders to become members?
 
 #### This **Case Study angle aims to answer** the question: - **How do Annual Members and Casual Riders use Cyclistic bikes differently?**
-
 
 
 ## Tools:
